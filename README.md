@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SirVoly 
 - 👀 I’m interested in Warhammer, DnD, Gaming and (ofcourse) Programming
-- 🌱 I’m currently learning ICT at the University of Ghent
-- 📫 How to reach me, just send me here.
+- 🌱 I'm working as IT Project Manager at Brantsandpatents
 
 <!---
 SirVoly/SirVoly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
