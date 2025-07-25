@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SirVoly 
-- 👀 I’m interested in Warhammer, DnD, Gaming and (ofcourse) Programming
+- 👋 Hi, I’m @SirVoly or Mino
+- 👀 I’m interested in DnD, Gaming and (ofcourse) Programming
 - 🌱 I'm working as IT Project Manager at Brantsandpatents
 
 <!---
