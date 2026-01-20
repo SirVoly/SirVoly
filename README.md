@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SirVoly or Mino
-- 👀 I’m interested in DnD, Gaming and (ofcourse) Programming
-- 🌱 I'm working as IT Project Manager at Brantsandpatents
+- 👋 Hi, I’m @SirVoly or Meike
+- 👀 I’m interested in TTRPGS, Gaming, Baseball and (of course) Programming
+- 🌱 I work at Brantsandpatents as IT Project Manager
 
 <!---
 SirVoly/SirVoly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
